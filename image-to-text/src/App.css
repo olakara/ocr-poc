@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+.id-image {
+  height: 40vmin;
+  pointer-events: none;
+}
+
